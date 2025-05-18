@@ -158,10 +158,14 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 ## 1.To Write a C program that illustrates files copying 
+![image](https://github.com/user-attachments/assets/2e994ddd-c286-4cc2-ba7b-8e9c1b52063f)
 
 
 
 ## 2.To Write a C program that illustrates files locking
+![image](https://github.com/user-attachments/assets/a88e1d0a-0170-441d-bf5f-dc1968bce249)
+![image](https://github.com/user-attachments/assets/2a39ecc9-02c3-4add-9ba6-c13c7269b30b)
+![image](https://github.com/user-attachments/assets/539b2778-3e89-4503-a2ec-75d4ad0ba208)
 
 
 # RESULT:
